@@ -4,7 +4,7 @@
 #Website : www.freetechways.xyz
 #Youtube : https://www.youtube.com/channel/UCbeSJJWGNppv5decBIjsfuw
 #github : github.com/HamzaOPLEX
-                                      #With all LOVE FROM HAMZAOPLEX 
+                                      #With all LOVE and Bugs FROM HAMZAOPLEX 
 import os
 import sys
 users_path = input("Enter the users Path >>>")
